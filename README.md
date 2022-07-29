@@ -6,4 +6,4 @@ We tested the models against the Restaurant and Laptop datasets and conclude tha
 
 ![alt text](https://github.com/popovsky88/Aspect-Term-Extraction/blob/main/img/Architecture.png)
 
-Furthermore, we evaluate model performances not only from a macroscopic level using parameters like accuracy and F1 score but also from a microscopic level using specific error cases selected from the dataset to understand and explain the impact of the model architecture on the dataset.
+![alt text](https://github.com/popovsky88/Aspect-Term-Extraction/blob/main/img/Architecture_crf.png)
